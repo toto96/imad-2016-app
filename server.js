@@ -14,7 +14,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 app.get('/ui/madi.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'PIC2.png'));
+  res.sendFile(path.join(__dirname, 'ui', 'WhatsApp Image 2016-08-10 at 8.37.39 PM.jpeg'));
 });
 
 
